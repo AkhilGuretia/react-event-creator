@@ -1,0 +1,20 @@
+[
+  {
+    "calendar": "PERSONAL",
+    "name": "abc",
+    "startDate": "",
+    "endDate": "",
+    "location": "",
+    "options": {
+      "tickets": "",
+      "approval": "",
+      "capacity": "",
+      "visibility": ""
+    },
+    "theme": {
+      "color": "",
+      "typeface": ""
+    },
+    "image": ""
+  }
+]
