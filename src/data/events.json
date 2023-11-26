@@ -1,13 +1,13 @@
 [
   {
-    "calendar": "PERSONAL",
+    "calendarType": "PERSONAL",
     "name": "abc",
     "startDate": "",
     "endDate": "",
     "location": "",
     "options": {
-      "tickets": "",
-      "approval": "",
+      "ticketsType": "",
+      "requiresApproval": "",
       "capacity": "",
       "visibility": ""
     },
@@ -15,6 +15,6 @@
       "color": "",
       "typeface": ""
     },
-    "image": ""
+    "bannerImage": ""
   }
 ]
